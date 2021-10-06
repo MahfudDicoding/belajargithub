@@ -1,1 +1,3 @@
 latihan penggunaan github
+
+menggunakan konflik di github
