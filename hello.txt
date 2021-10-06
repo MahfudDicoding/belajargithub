@@ -1,3 +1,1 @@
-latihan penggunaan github
-
-kalau yang ini beda ya harus tulisannya
+latihan menggunakan konflik di github
