@@ -2,3 +2,5 @@ latihan menggunakan konflik di github
 
 
 mencoba melakukan perubahan dari kontributor
+
+1. Melakukan Squash 1 
